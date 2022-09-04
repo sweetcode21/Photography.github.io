@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: rgb(203, 191, 191);
+    font-weight: normal;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: rgb(203, 191, 191);
+    font-weight: normal;
+    font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4 {
+    color: rgb(203, 191, 191);
+    font-weight: normal;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+color: rgb(203, 191, 191);
+    font-weight: normal;
+}

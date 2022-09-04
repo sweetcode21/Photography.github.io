@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+h3 {
+   color: rgb(203, 191, 191);
+   font-weight: lighter;
+}
+img {
+    width: 380px;
+    height: 350px;
+    justify-content: center;
+    
+}
